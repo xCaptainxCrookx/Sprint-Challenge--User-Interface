@@ -294,12 +294,16 @@ footer nav a {
     justify-content: space-evenly;
 }
 
-
-
-
 .bottom-text{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
 }
 
+h3{
+    padding: 20px;
+}
+
+.index-img{
+    padding: 20px;
+}
