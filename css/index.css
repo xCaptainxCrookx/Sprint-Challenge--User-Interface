@@ -144,3 +144,57 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+
+/* write about under here */
+
+.nav-and-logo{
+    padding: 20px 2%;
+    font-size: 14px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row-reverse;
+    
+}
+
+.about-img-under-nav{
+    padding: 20px 2%;
+    display:flex;
+    justify-content: space-between;
+}
+
+.top-text{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+
+.middle-text {
+    margin-bottom: 20px;
+    
+    display: flex;
+}
+
+.middle-text .top-two{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.middle-text .bottom-two{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+
+
+
+.bottom-text{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
